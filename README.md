@@ -1,2 +1,3 @@
 # ModernHTMLCSS
-Modern HTML &amp; CSS by Brad Traversy
+Modern HTML and CSS by Brad Traversy
+Changes made locally
